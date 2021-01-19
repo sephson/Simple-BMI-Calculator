@@ -1,0 +1,49 @@
+body {
+  background-color: #214151;
+}
+.bmi-wrap {
+  text-align: center;
+  margin-top: 8%;
+  color: #a2d0c1;
+}
+.header-text {
+  font-family: sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 7%;
+}
+
+.bmi-btn {
+  background-color: #f8dc81;
+  border: none;
+  font-size: 1rem;
+
+  color: #214151;
+  font-family: sans-serif;
+  border-radius: 0.5rem;
+  text-align: center;
+  padding: 10px 15px;
+}
+
+.bmi-btn:hover {
+  background-color: #ffefb9;
+  border: none;
+  font-size: 1rem;
+
+  color: #214151;
+  font-family: sans-serif;
+  border-radius: 0.5rem;
+  text-align: center;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.input {
+  padding: 15px;
+  margin-bottom: 5%;
+}
+
+.bmi-score {
+  margin-top: 5%;
+  font-size: 2rem;
+}
